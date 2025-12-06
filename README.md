@@ -1,4 +1,4 @@
-# Weektask 1 - Heart Rate Application
+# Weektask 2 - Login form
 
 ## Exercixe
 <img src="docs/Exercise.png" width="400"
